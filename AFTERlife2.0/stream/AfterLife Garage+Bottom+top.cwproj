@@ -1,0 +1,81 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>cs4_10_grass_0.ymap</Item>
+    <Item>cs4_10_strm_1.ymap</Item>
+    <Item>cs4_occl_03.ymap</Item>
+    <Item>cs4_roads.ymap</Item>
+    <Item>cs4_roads_critical_4.ymap</Item>
+    <Item>cs4_roads_long_0.ymap</Item>
+    <Item>cs4_roads_strm_1.ymap</Item>
+    <Item>grimzysan_ym.ymap</Item>
+    <Item>lr_cs4_10.ymap</Item>
+    <Item>lr_cs4_10_strm_1.ymap</Item>
+    <Item>lr_cs4_10_strm_2.ymap</Item>
+    <Item>lr_cs4_roads.ymap</Item>
+    <Item>lr_cs4_roads_critical_3.ymap</Item>
+    <Item>lr_cs4_roads_critical_4.ymap</Item>
+    <Item>lr_cs4_roads_long_0.ymap</Item>
+    <Item>lr_cs4_roads_strm_1.ymap</Item>
+    <Item>lr_cs6_02_critical_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>country_04_metadata_005_strm.ytyp</Item>
+    <Item>grimzysan_yt.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>cs4_roads_4.ybn</Item>
+    <Item>grimzysan_col.ybn</Item>
+    <Item>hi@cs4_roads_7.ybn</Item>
+    <Item>hi@lr_cs4_10_0.ybn</Item>
+    <Item>lr_cs4_10_0.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>cs4_10_decaltrailer.ydr</Item>
+    <Item>cs4_10_terrain01.ydr</Item>
+    <Item>cs4_rd_props_xwire23.ydr</Item>
+    <Item>cs4_rd_props_xwire24.ydr</Item>
+    <Item>cs4_rd_props_xwire32.ydr</Item>
+    <Item>cs4_rd_props_xwire57.ydr</Item>
+    <Item>cs4_rd_props_xwire71.ydr</Item>
+    <Item>cs4_rd_props_xwire74.ydr</Item>
+    <Item>cs4_rd_props_xwire91.ydr</Item>
+    <Item>cs4_rd_props_xwire93.ydr</Item>
+    <Item>cs4_rd_props_xwire98.ydr</Item>
+    <Item>cs4_roadsb19.ydr</Item>
+    <Item>grimzysan_bar.ydr</Item>
+    <Item>grimzysan_bar2.ydr</Item>
+    <Item>grimzysan_bathroom.ydr</Item>
+    <Item>grimzysan_boxing.ydr</Item>
+    <Item>grimzysan_build.ydr</Item>
+    <Item>grimzysan_chair.ydr</Item>
+    <Item>grimzysan_church.ydr</Item>
+    <Item>grimzysan_decals.ydr</Item>
+    <Item>grimzysan_door.ydr</Item>
+    <Item>grimzysan_garage1.ydr</Item>
+    <Item>grimzysan_garage2.ydr</Item>
+    <Item>grimzysan_garagedoor.ydr</Item>
+    <Item>grimzysan_gate.ydr</Item>
+    <Item>grimzysan_gate2.ydr</Item>
+    <Item>grimzysan_light.ydr</Item>
+    <Item>grimzysan_meeting.ydr</Item>
+    <Item>grimzysan_pool.ydr</Item>
+    <Item>grimzysan_rug.ydr</Item>
+    <Item>grimzysan_shell.ydr</Item>
+    <Item>grimzysan_table.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames>
+    <Item>cs4_10_slod1_children.ydd</Item>
+    <Item>cs4_rd_props_prop20_slod_children.ydd</Item>
+  </YddFilenames>
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>grimzysan_ytd.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
